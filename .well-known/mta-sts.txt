@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mail1.mailx.net
-mx: mail2.mailx.net
+mx: mail.anonaddy.me
+mx: mail2.anonaddy.me
 max_age: 604800
